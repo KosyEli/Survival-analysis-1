@@ -6,3 +6,6 @@
 - Data was cleaned partially with Excel and imported into SPSS where additional cleaning was done.
 - Participants who did not meet the inclusion criteria (as shown in sheet 1 of the uploaded Excel file) were excluded
 - Data was transformed to suit study objectives. After the data transformation, redundant columns were deleted to reduce file size.
+- Univariate and Bivariate cox proportional harzard regression was conducted; result are as shown in the table uploaded
+- Kaplan Meyer curve was obtained (using cox proportional harzard model)
+- Corresponding time series were included in each KM curves
